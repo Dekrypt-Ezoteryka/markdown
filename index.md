@@ -1,5 +1,5 @@
-# This is an `<BIG TEXT>` header, which is the largest
+# Title `<BIG TEXT>`
 
-## This is an `<Mid Text>` header
+## Sub-Title `<Mid Text>` 
 
-###### This is an `<small text>` header, which is the smallest
+###### main text `<small text>` 
