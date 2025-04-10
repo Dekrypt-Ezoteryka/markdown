@@ -9,3 +9,6 @@
 ```Python
 print("Hello World)
 ```
+- [X] clean
+- [X] code
+- [ ] cook
